@@ -1,0 +1,1 @@
+Documento de texto donde se mariotxt dictamina información que hay que tener en cuenta a la hora de ejecutar el programa que mariopy realiza.

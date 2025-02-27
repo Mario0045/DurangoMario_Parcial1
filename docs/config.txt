@@ -1,0 +1,1 @@
+Pequeño archivo configuración donde mariotxt se encarga de explicar lo que mariopy realiza a detalle en el programa.
